@@ -398,6 +398,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 |---|---|
 | **Guru Prasath** | AI/ML Engineer & Strategy Lead |
 | **Jeevanandam** | Full-Stack Developer & Systems Architect |
+| **Jayasuriya** | Backend & Tester |
 
 ---
 
